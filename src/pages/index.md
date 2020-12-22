@@ -47,7 +47,7 @@ sections:
     image_position: left
     title: Help us!
     content: >-
-      This boilerplates are possilble thanks to
+      These boilerplates are possilble thanks to
       [@alesanchezr](https://twitter.com/alesanchezr) and one amazing team of
       contributors [@nachovz](https://github.com/nachovz),
       [@ElviraQDP](https://github.com/ElviraQDP) and many others!
