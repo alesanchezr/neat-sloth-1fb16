@@ -1,5 +1,5 @@
 ---
-title: Change Log and updates
+title: Change Log and Updates
 subtitle: Stay up to date with the lates changes and plans we have for the boilerplates
 image: images/5.jpg
 has_more_link: true
