@@ -33,7 +33,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: React.js
+      - title: Hello React.js
         content: >-
           Start the most simple React.js project with one click to publish your
           website in minutes.
