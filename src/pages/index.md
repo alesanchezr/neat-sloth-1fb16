@@ -55,7 +55,7 @@ sections:
 
       Please contribute and help us make this projects better!
     actions:
-      - label: Contribute
+      - label: How to contribute
         url: /docs/getting-started
         style: primary
       - label: Get Started
