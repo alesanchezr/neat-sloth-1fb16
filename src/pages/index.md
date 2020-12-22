@@ -6,8 +6,9 @@ sections:
     title: 4Geeks Academy's Boilerplates
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Starting a coding project does not have to be hard, here you will find
+      everything you need to start, develop and publish your first coding
+      projects!
     actions:
       - label: Get Started
         url: /docs
