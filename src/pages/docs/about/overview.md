@@ -1,5 +1,5 @@
 ---
-title: 'The '
+title: The simplest project
 weight: 1
 template: docs
 ---
