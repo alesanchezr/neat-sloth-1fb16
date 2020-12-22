@@ -27,8 +27,8 @@ sections:
             style: link
       - title: 'Hello Vanilla JS '
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Extend your website functionalities using the latests javascript and
+          the most profesional coding practices.
         actions:
           - label: View Posts
             url: /blog
