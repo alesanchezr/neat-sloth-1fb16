@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Vanilla JS project
 weight: 2
 template: docs
 ---
