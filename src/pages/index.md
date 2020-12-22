@@ -96,7 +96,7 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: Empower you life with coding skillsEMPOWER YOUR LIFE WITH CODING SKILLS
+    title: Empower you life with coding skills
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
