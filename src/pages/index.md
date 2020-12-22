@@ -47,9 +47,13 @@ sections:
     image_position: left
     title: Help us!
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      This boilerplates are possilble thanks to
+      [@alesanchezr](https://twitter.com/alesanchezr) and one amazing team of
+      contributors [@nachovz](https://github.com/nachovz),
+      [@ElviraQDP](https://github.com/ElviraQDP) and many others!
+
+
+      Please contribute and help us make this projects better!
     actions:
       - label: View Demo
         url: /docs/getting-started
