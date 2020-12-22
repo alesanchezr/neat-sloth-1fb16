@@ -1,5 +1,5 @@
 ---
-title: Quick
+title: Quick Start
 template: docs
 ---
 
