@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to 4Geeks Academy's Coding Boilerplates
 template: docs
 ---
 
