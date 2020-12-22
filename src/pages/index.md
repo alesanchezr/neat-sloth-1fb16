@@ -43,7 +43,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/contributors.jpg
     image_position: left
     title: Help us!
     content: >-
