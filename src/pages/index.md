@@ -97,7 +97,9 @@ sections:
   - section_id: cta
     type: section_cta
     title: Empower you life with coding skills
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Lifetime Coding Mentorship, endless Career Support, and a tech-driven
+      community of developers.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
