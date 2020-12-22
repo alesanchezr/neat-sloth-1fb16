@@ -10,7 +10,7 @@ sections:
       everything you need to start, develop and publish your first coding
       projects!
     actions:
-      - label: Get Started
+      - label: Quick Start
         url: /docs
         style: primary
   - section_id: features
