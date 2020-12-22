@@ -43,7 +43,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/contributors.jpg
+    image: images/collab.png
     image_position: left
     title: Help us!
     content: >-
