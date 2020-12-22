@@ -101,7 +101,7 @@ sections:
       Lifetime Coding Mentorship, endless Career Support, and a tech-driven
       community of developers.
     actions:
-      - label: Get Started
+      - label: Learn more
         url: /docs/getting-started/installation
         style: primary
 template: advanced
